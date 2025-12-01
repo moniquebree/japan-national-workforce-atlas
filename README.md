@@ -22,15 +22,15 @@ This Power BI project provides a macro-economic analysis of the Japanese labour 
 
 ### Page 1: The Labour Landscape
 *Visualises the concentration of 7.6M workers in Tokyo and the breakdown of employment status.*
-![Labour Landscape](dashboard-page-1.png)
+![Labour Landscape](The%20Labour%20Landscape.png)
 
 ### Page 2: The Wealth Map
 *Highlights the "48% Low Income" statistic and the Professional & Engineering dominance in top tiers.*
-![Wealth Map](dashboard-page-2.png)
+![Wealth Map](The%20Wealth%20Map.png)
 
 ### Page 3: Workforce Dynamics
 *A deep dive into the gendered division of labour, specifically the 60% female concentration in Admin roles.*
-![Workforce Dynamics](dashboard-page-3.png)
+![Workforce Dynamics](Workforce%20Dynamics.png)
 
 ## 🛠️ Technical Stack
 * **Tool:** Microsoft Power BI
